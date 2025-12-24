@@ -1,7 +1,7 @@
 # Zomato-Project
 🍽️ Zomato Restaurants Expansion Analysis (Excel Project)
-📌 Project Overview
 
+📌 Project Overview
 This project analyzes Zomato’s global restaurant data to identify high-potential countries and cities for opening new restaurants.
 The analysis focuses on competition, customer ratings, pricing, cuisines, and convenience features (online delivery & table booking) using Microsoft Excel.
 
